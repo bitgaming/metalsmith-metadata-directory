@@ -13,3 +13,6 @@ Thumbs.db
 node_modules
 npm-debug.log
 build/
+
+package-lock.json
+yarn.lock
